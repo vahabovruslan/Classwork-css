@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+}
+.item1{
+    padding: 100px;
+    background-color: cadetblue;
+}
+.item4{
+    
+    padding: 20px;
+    display: inline-block;
+    width: 150px;
+
+}
+.item2{
+    background-color: aliceblue;
+    padding: 20px;
+}
+.item3{
+    background-color: darkslateblue;
+}
